@@ -1,4 +1,6 @@
-# ObjectDetectionUsingSOLO
+# ObjectDetectionUsingFasterRCNN
+1. Install Detectron2
+2. Prepare custom dataset - the annotation style must be in COCO format (.JSON)
 
 
 
